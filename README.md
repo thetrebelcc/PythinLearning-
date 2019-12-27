@@ -14,7 +14,7 @@ codeacademy.com
 https://automatetheboringstuff.com/
 ```
 
-## Contributing
+## Currently
 -Reading ATBS chapter 1 & installing latest version of python. 
 
 ## License
