@@ -17,6 +17,8 @@ codeacademy.com
 
 ## Currently
 -Reading ATBS chapter 1 & installing latest version of python. 
+
+
 -Read chapter 3 from ATBS, creating functions with python. 
 
 ## License
